@@ -1,5 +1,5 @@
 # PaperBot-1000
-Created for Quarenteam Hackathon October 2021
+This project was started during the Quarenteam Hackathon October 2021.
 
 Project Title: PaperBot 1000
 Team Name: LadyNazlia Alone (I think this is the name I signed up with. It is a solo project.)
